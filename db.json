@@ -1,0 +1,40 @@
+{
+  "recipes": [
+    {
+      "name": "Pizza",
+      "ingredients": [
+        "dough",
+        "cheese",
+        "tomato",
+        "sauce"
+      ],
+      "time": "30 min",
+      "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ix",
+      "id": 1
+    },
+    {
+      "name": "Chicken",
+      "ingredients": [
+        "chicken",
+        "sauce",
+        "tomato",
+        "onion"
+      ],
+      "time": "40 min",
+      "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ix",
+      "id": 2
+    },
+    {
+      "name": "Beef",
+      "ingredients": [
+        "beef",
+        "sauce",
+        "tomato",
+        "onion"
+      ],
+      "time": "50 min",
+      "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ix",
+      "id": 3
+    }
+  ]
+}
